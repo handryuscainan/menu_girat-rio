@@ -70,7 +70,7 @@ body {
   position: absolute;
   height: calc(50% - 40px);
   width: calc(50% - 40px);
-  top: calc(52.5% - 40px);
+  top: calc(52% - 40px);
   left: calc(52% - 40px);
   border-radius: 70%;
   display: flex;
